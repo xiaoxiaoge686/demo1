@@ -1,0 +1,3 @@
+selenium
+pyemail
+requests
