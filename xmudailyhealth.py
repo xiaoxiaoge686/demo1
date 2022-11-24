@@ -184,6 +184,6 @@ if __name__ == '__main__':
         mylog.info("打卡成功")
 
     sleep(1)
-    # 采用close()执行脚本的时候不会自动退出
+    # 采用 close()执行脚本的时候不会自动退出
     del_files("./pic/")
     driver.quit()
